@@ -24,5 +24,5 @@ private:
   WbDeviceTag right_motor;
   WbDeviceTag left_motor;
 };
-}
+} // namespace my_robot_driver
 #endif
